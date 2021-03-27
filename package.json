@@ -1,0 +1,19 @@
+{
+  "name": "instaquiz",
+  "version": "1.0.0",
+  "description": "For UCLA Hackathon 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewHSenko/InstaQuiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewHSenko/InstaQuiz/issues"
+  },
+  "homepage": "https://github.com/AndrewHSenko/InstaQuiz#readme"
+}
